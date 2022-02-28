@@ -16,6 +16,5 @@ public class App {
         System.out.println(bean == bean2);
         System.out.println(bean3 == bean4);
 
-
     }
 }
